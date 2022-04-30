@@ -1,0 +1,1 @@
+pandoc --extract-media=. -s "9 - Windows Server Update Services.docx" -t gfm -o "9 - Windows Server Update Services.md"
